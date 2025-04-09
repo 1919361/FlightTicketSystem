@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kazuha Kaedehara\\source\\repos\\FMAPPTEST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7512B270-4FB4-431D-BB0B-CB6CB40B21B4}|FMAPPTEST.vcxproj|C:\\Users\\Kazuha Kaedehara\\source\\repos\\FMAPPTEST\\\u822A\u73ED\u8BA2\u7968\u7CFB\u7EDF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7512B270-4FB4-431D-BB0B-CB6CB40B21B4}|FMAPPTEST.vcxproj|solutionrelative:\u822A\u73ED\u8BA2\u7968\u7CFB\u7EDF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u822A\u73ED\u8BA2\u7968\u7CFB\u7EDF.cpp",
+              "DocumentMoniker": "C:\\Users\\Kazuha Kaedehara\\source\\repos\\FMAPPTEST\\\u822A\u73ED\u8BA2\u7968\u7CFB\u7EDF.cpp",
+              "RelativeDocumentMoniker": "\u822A\u73ED\u8BA2\u7968\u7CFB\u7EDF.cpp",
+              "ToolTip": "C:\\Users\\Kazuha Kaedehara\\source\\repos\\FMAPPTEST\\\u822A\u73ED\u8BA2\u7968\u7CFB\u7EDF.cpp",
+              "RelativeToolTip": "\u822A\u73ED\u8BA2\u7968\u7CFB\u7EDF.cpp",
+              "ViewState": "AgIAAF4BAAAAAAAAAAAWwGwBAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-10T07:03:55.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

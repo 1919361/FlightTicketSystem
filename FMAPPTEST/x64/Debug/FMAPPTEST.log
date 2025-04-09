@@ -1,0 +1,6 @@
+﻿  航班订票系统.cpp
+C:\Users\Kazuha Kaedehara\source\repos\FMAPPTEST\航班订票系统.cpp(375,6): warning C4101: “x”: 未引用的局部变量
+C:\Users\Kazuha Kaedehara\source\repos\FMAPPTEST\航班订票系统.cpp(491,6): warning C4101: “i”: 未引用的局部变量
+C:\Users\Kazuha Kaedehara\source\repos\FMAPPTEST\航班订票系统.cpp(780,23): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+C:\Users\Kazuha Kaedehara\source\repos\FMAPPTEST\航班订票系统.cpp(773,1): warning C4715: “verify_password”: 不是所有的控件路径都返回值
+  FMAPPTEST.vcxproj -> C:\Users\Kazuha Kaedehara\source\repos\FMAPPTEST\x64\Debug\FMAPPTEST.exe
